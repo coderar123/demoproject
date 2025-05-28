@@ -1,0 +1,16 @@
+p
+{
+    color: rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: larger;
+    
+    
+}
+p:hover
+{
+    transition-property: "background-color : black";
+    transition-timing-function: ease-in;
+    transition-duration: 10s;
+    transition-delay: 2s;
+}
